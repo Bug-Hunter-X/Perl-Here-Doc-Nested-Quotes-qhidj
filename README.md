@@ -1,0 +1,1 @@
+This example demonstrates a potential issue with Perl's here-doc string quoting mechanism when nested single and double quotes are present. The `bug.pl` file contains the problematic code, while `bugSolution.pl` offers a corrected approach.
