@@ -1,0 +1,1 @@
+my $string = q{This is a string with "double quotes" and 'single quotes'.};
